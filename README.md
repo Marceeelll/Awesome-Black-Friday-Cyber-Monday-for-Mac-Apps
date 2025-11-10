@@ -35,6 +35,7 @@ Don't forget to:
 | 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** |  Nov 1 - Dec 7  |
 | 💎 | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** |  Nov 20 - Dec 2  |
 | 🔥 | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | Focus & Time | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF |  Nov 20 - Dec 2  |
+| 🔥 | [DeskRest](https://deskrest.com/offers/) | Health & Wellness | Smart break and posture reminder for macOS. Transform your workday.	 | 50%+ OFF |  Nov 9 - Dec 2  |
 
 [⬆️ Go to Top](#table-of-contents)
 
